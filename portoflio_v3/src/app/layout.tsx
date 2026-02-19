@@ -3,8 +3,8 @@ import "./globals.css";
 import { ClientBody } from "./ClientBody";
 
 export const metadata: Metadata = {
-  title: "Mobbin — UI & UX design inspiration for mobile & web apps",
-  description: "Save hours of UI & UX research with our library of 400,000+ fully searchable mobile & web app screenshots.",
+  title: "Antoine Coudert — Product Builder",
+  description: "Sp\u00E9cialiste du low-code et du d\u00E9veloppement sur mesure. Applications web, automatisations et int\u00E9grations IA.",
 };
 
 export default function RootLayout({
